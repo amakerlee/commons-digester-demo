@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3c3c349-1847-4067-9ea7-b46daded1588" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/annotations/Channel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/annotations/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/annotations/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/annotations/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/plugins/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/plugins/Slider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/plugins/TestDefaultPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/plugins/TextLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/plugins/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/plugins/Widget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultPlugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/rss.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c3c3c349-1847-4067-9ea7-b46daded1588" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,10 +30,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/plugins/TextLabel.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/plugins/TestDefaultPlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="21" />
+            <state relative-caret-position="374">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -56,20 +53,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/defaultPlugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            <state relative-caret-position="51">
+              <caret line="3" column="64" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/plugins/TestDefaultPlugin.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/plugins/TextLabel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -152,9 +146,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="980" />
-    <option name="y" value="5" />
-    <option name="width" value="919" />
+    <option name="x" value="833" />
+    <option name="y" value="53" />
+    <option name="width" value="962" />
     <option name="height" value="1025" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -178,43 +172,6 @@
               <item name="commons-digester-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="commons-digester-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="commons-digester-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="commons-digester-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="commons-digester-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="commons-digester-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="commons-digester-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="commons-digester-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tqlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="commons-digester-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="commons-digester-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tqlin" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="commons-digester-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="commons-digester-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -346,7 +303,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554962925562</updated>
       <workItem from="1554962928969" duration="2273000" />
-      <workItem from="1554966153827" duration="10084000" />
+      <workItem from="1554966153827" duration="10503000" />
     </task>
     <task id="LOCAL-00001" summary="名称调整">
       <created>1554966305210</created>
@@ -411,15 +368,26 @@
       <option name="project" value="LOCAL" />
       <updated>1554975573674</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="注解及插件示例提交">
+      <created>1554976711982</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554976711982</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestDefaultPlugin - 2019.04.11 at 17h 56m 22s.xml">
+      <configuration name="TestDefaultPlugin" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12357000" />
+    <option name="totallyTimeSpent" value="12776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -429,7 +397,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.38487208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38487208" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -461,7 +429,8 @@
     <MESSAGE value="异步解析XML示例" />
     <MESSAGE value="xml变量解析-Substitutor抽象类示例" />
     <MESSAGE value="带参构造方法使用示例" />
-    <option name="LAST_COMMIT_MESSAGE" value="带参构造方法使用示例" />
+    <MESSAGE value="注解及插件示例提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="注解及插件示例提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources.properties" />
@@ -529,13 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="97" lean-forward="true" selection-start-line="4" selection-start-column="97" selection-end-line="4" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -778,20 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/plugins/TextLabel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/defaultPlugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.0-M1/junit-jupiter-api-5.5.0-M1.jar!/org/junit/jupiter/api/Assertions.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -801,11 +749,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/plugins/TestDefaultPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/defaultPlugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/plugins/TextLabel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
