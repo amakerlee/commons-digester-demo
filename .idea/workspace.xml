@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c3c349-1847-4067-9ea7-b46daded1588" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/ExampleNSMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/example_ns.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/ExampleNS2Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tqlin/WebMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tqlin/WebMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,20 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/WebMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/ExampleMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="34" selection-start-line="34" selection-end-line="38" selection-end-column="13" />
+            <state relative-caret-position="349">
+              <caret line="33" column="69" lean-forward="true" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,17 +47,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/example_ns.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="51">
+              <caret line="3" column="46" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/ExampleNS2Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/ExampleNSMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,6 +87,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/example_ns.xml" />
         <option value="$PROJECT_DIR$/src/main/java/tqlin/WebMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/tqlin/ExampleNSMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tqlin/ExampleNS2Main.java" />
       </list>
     </option>
   </component>
@@ -137,7 +137,9 @@
     <option name="width" value="919" />
     <option name="height" value="1025" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -178,6 +180,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tqlin" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="commons-digester-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="commons-digester-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -216,10 +225,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExampleNSMain">
+  <component name="RunManager" selected="Application.ExampleNS2Main">
     <configuration name="ExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="MAIN_CLASS_NAME" value="tqlin.ExampleMain" />
+      <module name="digester.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tqlin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleNS2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tqlin.ExampleNS2Main" />
       <module name="digester.demo" />
       <extension name="coverage">
         <pattern>
@@ -261,9 +283,11 @@
       <item itemvalue="Application.ExampleMain" />
       <item itemvalue="Application.WebMain" />
       <item itemvalue="Application.ExampleNSMain" />
+      <item itemvalue="Application.ExampleNS2Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExampleNS2Main" />
         <item itemvalue="Application.ExampleNSMain" />
         <item itemvalue="Application.WebMain" />
         <item itemvalue="Application.ExampleMain" />
@@ -281,7 +305,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554962925562</updated>
       <workItem from="1554962928969" duration="2273000" />
-      <workItem from="1554966153827" duration="5039000" />
+      <workItem from="1554966153827" duration="5981000" />
     </task>
     <task id="LOCAL-00001" summary="名称调整">
       <created>1554966305210</created>
@@ -304,17 +328,24 @@
       <option name="project" value="LOCAL" />
       <updated>1554970780756</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="带命名空间的xml解析示例增加">
+      <created>1554971403832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554971403832</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7312000" />
+    <option name="totallyTimeSpent" value="8254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -322,7 +353,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39933258" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -330,8 +361,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32925472" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -348,7 +379,8 @@
     <MESSAGE value="名称调整" />
     <MESSAGE value="Digester日志增加" />
     <MESSAGE value="web.xml解析示例增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="web.xml解析示例增加" />
+    <MESSAGE value="带命名空间的xml解析示例增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="带命名空间的xml解析示例增加" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources.properties" />
@@ -454,26 +486,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/example_ns.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/WebMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/ExampleMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="578">
           <caret line="34" selection-start-line="34" selection-end-line="38" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -481,10 +496,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/WebMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="33" column="69" lean-forward="true" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/example_ns.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="46" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/ExampleNSMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/ExampleNS2Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
