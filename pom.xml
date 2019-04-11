@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tqlin</groupId>
-    <artifactId>digester.demo</artifactId>
+    <artifactId>commons-digester.demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>digester.demo</name>
+    <name>commons-digester.demo</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
