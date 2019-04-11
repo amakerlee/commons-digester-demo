@@ -6,6 +6,9 @@ import tqlin.entity.ServletBean;
 
 import java.io.IOException;
 
+/**
+ * web.xml解析示例
+ */
 public class WebMain {
     public static void main(String[] args) {
         Digester digester = new Digester();
