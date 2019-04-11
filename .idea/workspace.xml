@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c3c349-1847-4067-9ea7-b46daded1588" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/ExampleNS2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/DigesterLoaderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/EmployeeModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tqlin/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/employee.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,11 +57,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/ExampleNS2Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/employee.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/EmployeeModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/ExampleNSMain.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/DigesterLoaderMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="247">
+              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,6 +127,11 @@
         <option value="$PROJECT_DIR$/src/main/java/tqlin/WebMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/tqlin/ExampleNSMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/tqlin/ExampleNS2Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/employee.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/tqlin/entity/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tqlin/entity/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tqlin/EmployeeModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tqlin/DigesterLoaderMain.java" />
       </list>
     </option>
   </component>
@@ -225,7 +252,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExampleNS2Main">
+  <component name="RunManager" selected="Application.DigesterLoaderMain">
+    <configuration name="DigesterLoaderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tqlin.DigesterLoaderMain" />
+      <module name="digester.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tqlin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="MAIN_CLASS_NAME" value="tqlin.ExampleMain" />
@@ -284,9 +324,11 @@
       <item itemvalue="Application.WebMain" />
       <item itemvalue="Application.ExampleNSMain" />
       <item itemvalue="Application.ExampleNS2Main" />
+      <item itemvalue="Application.DigesterLoaderMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DigesterLoaderMain" />
         <item itemvalue="Application.ExampleNS2Main" />
         <item itemvalue="Application.ExampleNSMain" />
         <item itemvalue="Application.WebMain" />
@@ -305,7 +347,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554962925562</updated>
       <workItem from="1554962928969" duration="2273000" />
-      <workItem from="1554966153827" duration="5981000" />
+      <workItem from="1554966153827" duration="7450000" />
     </task>
     <task id="LOCAL-00001" summary="名称调整">
       <created>1554966305210</created>
@@ -335,11 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554971403832</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="使用命名空间前缀用于模式匹配示例">
+      <created>1554972328626</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554972328626</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8254000" />
+    <option name="totallyTimeSpent" value="9723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -360,8 +409,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49946696" visible="true" weight="0.32925472" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -380,7 +429,8 @@
     <MESSAGE value="Digester日志增加" />
     <MESSAGE value="web.xml解析示例增加" />
     <MESSAGE value="带命名空间的xml解析示例增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="带命名空间的xml解析示例增加" />
+    <MESSAGE value="使用命名空间前缀用于模式匹配示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用命名空间前缀用于模式匹配示例" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources.properties" />
@@ -525,8 +575,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/ExampleNS2Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        <state relative-caret-position="119">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/employee.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/entity/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/entity/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#161#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/EmployeeModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tqlin/DigesterLoaderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
