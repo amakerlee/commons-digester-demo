@@ -15,7 +15,7 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * 插件示例
+ * Digester插件模块示例
  */
 public class TestDefaultPlugin {
 
