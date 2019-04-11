@@ -1,3 +1,5 @@
+package tqlin;
+
 import org.apache.commons.digester3.Digester;
 import org.apache.commons.digester3.ObjectCreateRule;
 import org.xml.sax.SAXException;
