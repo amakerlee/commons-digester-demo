@@ -13,7 +13,7 @@ Apache Commons Digester 开源插件使用示例
 |xml变量解析(Substitutor抽象类)示例|SubstitutionMain.java|
 |带参构造方法使用示例|ConstructorParamsMain.java|
 |Digester插件模块示例|TestDefaultPlugin.java|
-|规则注解示例|Main.java|
+|
 
 # 参考资料
 [官方文档](https://commons.apache.org/proper/commons-digester/guide/core.html#doc.Usage)
